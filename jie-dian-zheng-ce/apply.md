@@ -14,7 +14,7 @@
 
 ## 节点合伙人申请条件
 
-#### Bitrader是由合伙人共创的平台，欢迎行业精英、平台加入Bitrader社区
+#### FlashEX是由合伙人共创的平台，欢迎行业精英、平台加入FlashEX社区
 
 * 有10000粉丝以上的KOL；
 * 有10000以上活跃社群用户资源；
@@ -29,11 +29,11 @@
 
 STEP 1：社区合伙人准备申请材料；
 
-STEP 2：通过Bitrader App提交申请材料；
+STEP 2：通过FlashEX App提交申请材料；
 
-STEP 3：与Bitrader沟通并确认合作计划；确立合作并由Bitrader官方公布合作关系；
+STEP 3：与FlashEX沟通并确认合作计划；确立合作并由FlashEX官方公布合作关系；
 
-STEP 4：向合伙人账户划币（Bitrader Token）；
+STEP 4：向合伙人账户划币（FlashEX Token）；
 
 #### 申请材料
 
